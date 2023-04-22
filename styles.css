@@ -1,11 +1,9 @@
-/* This is a CSS comment
-It can be broken onto multiple lines. */
+/* Shared CSS for Index and Recipe Pages */
 
 body {
   background-color: lightcyan;
   color: slateblue;
   font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif
-
 }
 
 img {
